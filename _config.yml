@@ -1,8 +1,8 @@
 # Site
 name: 'Coding Time'
 description: 'Все о кодинге и IT'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/favicon.png'
+favicon: 'assets/images/favicon.png'
 baseurl: '/'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
