@@ -22,7 +22,7 @@ authors:
     admin:
       name:           "Даниил Чижевский"
       site:           https://daniilchizhevskij.ml
-      avatar:         /assets/images/DaniilChizhevskij.png
+      avatar:         assets/images/DaniilChizhevskij.png
       bio:            "Программист, основатель сайта."
       email:          daniilchizhevskij@gmail.com
  
