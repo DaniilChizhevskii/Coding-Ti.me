@@ -9,6 +9,8 @@ permalink: "/contact.html"
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Имя *" required>
 </div>
+<br>
+<br>
 <div class="col-md-6">
 <input class="form-control" type="email" name="_replyto" placeholder="E-mail адрес *" required>
 </div>
