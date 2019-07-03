@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    admin:
       name:           "Даниил Чижевский"
       site:           https://daniilchizhevskij.ml
       avatar:         /assets/images/DaniilChizhevskij.png
@@ -34,7 +34,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: admin
       avatar: /assets/images/avatar1.jpg
       
   # all pages
