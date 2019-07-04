@@ -21,7 +21,11 @@ layout: default
                         {% endif %}
 						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{site.baseurl}}/author-{{ author.name }}" class="btn btn-outline-success btn-sm btn-round ml-1">Все записи автора</a></span>
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%d.%m.%Y' }} · {% include meta-read-time.html %}</span>
-						</small>
+		<script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="https://yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="collections,vkontakte,facebook,twitter,telegram"></div>
+				</small>
+
 					</div>
 				</div>
                 {% if page.image %}
@@ -40,15 +44,6 @@ layout: default
 
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
-        
-        
-        <!-- Share -->
-		<div class="col-lg-2 pr-4 mb-4 col-md-12">
-<script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
-<script src="https://yastatic.net/share2/share.js"></script>
-<div class="ya-share2" data-services="collections,vkontakte,facebook,twitter,telegram"></div>
-		</div>
-        
         
 		<div class="col-md-12 col-lg-8">
             
