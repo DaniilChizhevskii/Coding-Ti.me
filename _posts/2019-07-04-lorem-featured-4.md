@@ -1,5 +1,6 @@
 ---
 categories: [ Lorem Ipsum ]
+tags: [ featured ]
 autor: admin
 layout: post
 title: Рекомендованный #4
