@@ -144,7 +144,7 @@ description: "Все о кодинге и IT"
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Читать далее &raquo;</a>
+                <a href="{{site.baseurl}}{{post.url}}" class="btn" style="background-color: #03a87c !important;">Читать далее &raquo;</a>
             </div>
             <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});background-position: center center;">	
             </div>
