@@ -4,7 +4,7 @@ tags: [sticky]
 autor: admin
 layout: post
 title: Лучшие дистрибутивы Linux 2019
-image: "/assets/images/best-distro/best-distro.jpg"
+image: "assets/images/best-distro/best-distro.jpg"
 ---
 
 # Лучшие дистрибутивы Linux 2019
