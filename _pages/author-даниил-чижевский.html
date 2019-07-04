@@ -9,14 +9,14 @@ permalink: "/author-даниил-чижевский.html"
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
                 <h2 class="font-weight-bold">{{page.title}}</h2>
-                <p><a href="{{ site.authors.sal.site }}">{{ site.authors.sal.site }}</a></p>
+                <p><a href="{{ site.authors.admin.site }}">{{ site.authors.admin.site }}</a></p>
                 <p class="excerpt">{{ site.authors.sal.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.sal.name }}" src="{{site.baseurl}}/{{ site.authors.sal.avatar }}" class="rounded-circle" height="100" width="100">
+                <img alt="{{ site.authors.admin.name }}" src="{{site.baseurl}}/{{ site.authors.admin.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
-            {% assign posts = site.posts | where:"author","sal" %}
+            {% assign posts = site.posts | where:"author","admin" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}
