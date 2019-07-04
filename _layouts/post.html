@@ -19,7 +19,7 @@ layout: default
                         {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}
-						<small class="ml-3"> {{ author.name }}<br><span><a target="_blank" href="{{site.baseurl}}/author-{{ author.name }}" class="btn btn-outline-success btn-sm btn-round ml-1">Все записи автора</a></span>
+						<small class="ml-3"> {{ author.name }}<br><span><a target="_blank" href="{{site.baseurl}}/author-{{ author.name | slugify }}" class="btn btn-outline-success btn-sm btn-round ml-1">Все записи автора</a></span>
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%d.%m.%Y' }} · {% include meta-read-time.html %}</span>
 		<script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
 <script src="https://yastatic.net/share2/share.js"></script>
