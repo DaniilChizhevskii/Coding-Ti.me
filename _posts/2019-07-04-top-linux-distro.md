@@ -1,6 +1,6 @@
 ---
 categories: [ Linux, Подборка ]
-tags: [sticky]
+tags: [sticky, featured]
 autor: admin
 layout: post
 title: Лучшие дистрибутивы Linux 2019
