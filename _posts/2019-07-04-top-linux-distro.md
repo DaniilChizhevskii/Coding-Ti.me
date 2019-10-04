@@ -11,7 +11,7 @@ image: "assets/images/best-distro/best-distro.jpg"
 
 # Лучший Linux для новичков - Linux Mint
 
-![Linux Mint](/assets/images/best-distro/linux-mint.png)
+![Linux Mint](https://coding-ti.me/assets/images/best-distro/linux-mint.png)
 
 Linux Mint уже многие годы занимает высокие посты в рейтинге лучших дистрибутивов для новичков. Он является самым популярным дистрибутивом Linux в мире (не считая Android). Причинами этому являются:
 
@@ -22,7 +22,7 @@ Linux Mint уже многие годы занимает высокие пост
  
 # Лучший Linux для домашнего использования - Ubuntu
 
-![Ubuntu](/assets/images/best-distro/ubuntu.png)
+![Ubuntu](https://coding-ti.me/assets/images/best-distro/ubuntu.png)
 
 Ubuntu - довольно старый дистрибутив, который начал развиваться еще в середине 2000-х. За время своего существования Ubuntu претерпела множество улучшений и изменений, но суть осталась та же - свобода использования и максимальная поддержка дистрибутива.
 
@@ -35,7 +35,7 @@ Ubuntu - довольно старый дистрибутив, который н
 
 # Лучший дистрибутив для старого ПО - Xubuntu
 
-![Xubuntu](/assets/images/best-distro/xubuntu.jpg)
+![Xubuntu](https://coding-ti.me/assets/images/best-distro/xubuntu.jpg)
 
 Xubuntu, как можно судить даже по названию, является производным от Ubuntu. Данный дистрибутив создавался с целью улучшения производительности ПО на маломощном и устаревшем железе, но при этом сохранить все преимущества родителя.
 
@@ -47,7 +47,7 @@ Xubuntu, как можно судить даже по названию, явля
 
 # Лучший Linux для сервера - Debian
 
-![Debian](/assets/images/best-distro/debian.png)
+![Debian](https://coding-ti.me/assets/images/best-distro/debian.png)
 
 Debian - одна из самых первых операционных систем на ядре Linux, прародитель Ubuntu и её производных. Однако за годы своего существования код дистрибутива так и остался низкоуровневым, то есть использующим минимум сторонних библиотек. Из этого вытекает быстродействие  Debian и его небольшой вес.
 
@@ -59,7 +59,7 @@ Debian - одна из самых первых операционных сист
 
 # Лучший Linux для продвинутых пользователей - Gentoo
 
-![Gentoo](/assets/images/best-distro/gentoo.png)
+![Gentoo](https://coding-ti.me/assets/images/best-distro/gentoo.png)
 
 Сам по себе Gentoo - не обычный дистрибутив, а так называемый мета-дистрибутив. Это значит, что разработчик предоставляет лишь "скелет" будущей ОС, а также некоторые инструменты, с помощью которых вы сможете создать и разить собственный дистрибутив.
 
@@ -71,7 +71,7 @@ Debian - одна из самых первых операционных сист
 
 # Лучший дистрибутив для сохранения приватности - Tails
 
-![Tails](/assets/images/best-distro/tails.jpg)
+![Tails](https://coding-ti.me/assets/images/best-distro/tails.jpg)
 
 Tails - live-дистрибутив, т. е. он запускается с flash-носителя и не сохраняет никаких данных о пользователе. А установленное ПО поможет сохранить конфиденциальность и в Интернете.
 
@@ -83,7 +83,7 @@ Tails - live-дистрибутив, т. е. он запускается с flas
  
 # Лучший Linux для геймеров - SteamOS
 
-![SteamOS](/assets/images/best-distro/steam-os.jpg)
+![SteamOS](https://coding-ti.me/assets/images/best-distro/steam-os.jpg)
 
 SteamOS - официальный дистрибутив компании Steam, основанный на ядре Debian 8. Целью создания ОС было улучшение качества графики и её быстродействия.
 
