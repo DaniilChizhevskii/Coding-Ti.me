@@ -13,7 +13,7 @@ image: "assets/images/programming-languages/background.jpg"
 
 # Java
 
-![Java](/assets/images/programming-languages/java.jpg)
+![Java](https://coding-ti.me/assets/images/programming-languages/java.jpg)
 
 **Java** - не путать с **JavaScript** - является одним из наиболее широко используемых языков программирования. Этот язык удобен тем, что имеет широкий круг применения и портирован практически под все современные платформы.
 
@@ -23,7 +23,7 @@ image: "assets/images/programming-languages/background.jpg"
 
 # PHP
 
-![PHP](/assets/images/programming-languages/php.jpg)
+![PHP](https://coding-ti.me/assets/images/programming-languages/php.jpg)
 
 **PHP** - тоже один из старейших языков программирования, созданный примерно в то же время, что и *Java* - в 1995 году. Это язык сценариев общего назначения, который широко используется для веб-разработки. Одной из отличительных особенностей **PHP**, которая, несомненно, повышает его в галазах веб-разработчиков, является его полная совместимость с **HTML**-кодом.
 
@@ -35,7 +35,7 @@ image: "assets/images/programming-languages/background.jpg"
 
 # Python
 
-![Python](/assets/images/programming-languages/python.jpg)
+![Python](https://coding-ti.me/assets/images/programming-languages/python.jpg)
 
 **Python** - довольно простой язык программирования, который очень легко освоить, если у вас уже есть опыт программирования. Код на **Python** - один из самых читаемых. Из-за своей разметки этот язык подходит и начинающим программистам, и разработчикам со стажем. Язык может использоваться для разработки как десктопных приложений, так и веб-сайтов, что делает его отличным языком для разработчиков, работающих над различными типами проектов.
 
@@ -47,7 +47,7 @@ image: "assets/images/programming-languages/background.jpg"
 
 # Solidity
 
-![Solidity](/assets/images/programming-languages/solidity.jpg)
+![Solidity](https://coding-ti.me/assets/images/programming-languages/solidity.jpg)
 
 В настоящее время большое развитие получили криптовалюты. Затаив дыхание, мир следит за скачками *Bitcoin*, каждый день появляются новые криптовалюты, разрабатываются приложения на основе технологии *Блокчейн*.
 
@@ -57,7 +57,7 @@ image: "assets/images/programming-languages/background.jpg"
 
 # SQL
 
-![SQL](/assets/images/programming-languages/sql.png)
+![SQL](https://coding-ti.me/assets/images/programming-languages/sql.png)
 
 **SQL** (сокращение от *Structured Query Language*) - наиболее распространенный язык программирования для обработки информации в реляционных базах данных. **SQL** появился в 1974 году, что делает его одним из старейших языков, которые поддерживаются до настоящего момента. Он содержит несколько неформальных подъязыков, каждый из которых используется для выполнения определенных действий.
 
@@ -67,7 +67,7 @@ image: "assets/images/programming-languages/background.jpg"
 
 # Swift
 
-![Swift](/assets/images/programming-languages/swift.jpeg)
+![Swift](https://coding-ti.me/assets/images/programming-languages/swift.jpeg)
 
 Последний язык в данном списке - **Swift** - ничем не уступает другим языкам, указанным в списке. Это язык общего назначения, который был разработан *Apple* для использования в различных операционных системах (в основном в своих). **Swift**, несомненно, является лучшим языком программирования для изучения, если вы хотите разрабатывать под платформы **Apple** - как мобильные, так и десктопные.
 
