@@ -1,0 +1,22 @@
+---
+label: Новая статья
+hide_body: false
+fields:
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: autor
+  label: autor
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
